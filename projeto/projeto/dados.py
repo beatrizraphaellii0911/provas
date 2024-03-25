@@ -1,0 +1,4 @@
+# dados.py
+
+equipamentos = []
+salas = []
